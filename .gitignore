@@ -1,0 +1,7 @@
+# pickle files
+*.pkl
+
+# certificates
+*.cer
+
+keys.json
